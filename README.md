@@ -1,14 +1,13 @@
-### Hi there 👋
 
-<!--
-**Vicki-Arkahna/Vicki-Arkahna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<h2 align="center">Hello there! My name is Vicki Turner. 👋🤓😺</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning 
-- 🌱 I’m currently learning everything I can
+### I'm a Trainee Developer with Arkahna
+
+- 🔭 I’m currently working on learning all that I can!
 - 😄 Pronouns: she/her
--->
+
 
 ![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicki-Arkahna&show_icons=true&theme=synthwave)
 
