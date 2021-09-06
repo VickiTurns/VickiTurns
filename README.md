@@ -5,7 +5,7 @@
 
 ### I'm a Trainee Developer with Arkahna
 
-- 🔭 I’m currently working on learning all that I can!
+- 🔭 I’m currently working on learning all that I can about Power Automate and Power Platforms
 - 😄 Pronouns: she/her
 
 
