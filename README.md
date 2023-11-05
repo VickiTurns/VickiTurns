@@ -5,9 +5,9 @@
 
 ### I'm a Junior Consultant with Arkahna
 
-- 🔭 I work in Power Platform, and also developing broader skills in Data management and analytics
+- 🔭 I work in Power Platform, GitHub Administration, and also developing broader skills in Data management and analytics
 - 😄 Pronouns: she/her
 
+## Stats
 
-![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicki-Arkahna&show_icons=true&theme=synthwave)
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
