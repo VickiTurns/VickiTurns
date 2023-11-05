@@ -11,3 +11,4 @@
 
 ![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickiTurns&show_icons=true&theme=synthwave)
 
+![contrib](./profile-green.svg)
