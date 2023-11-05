@@ -8,7 +8,6 @@
 - 🔭 I work in Power Platform, GitHub Administration, and also developing broader skills in Data management and analytics
 - 😄 Pronouns: she/her
 
+## Stats
 
-![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickiTurns&show_icons=true&theme=synthwave)
-
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
