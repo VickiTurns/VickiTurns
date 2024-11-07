@@ -3,9 +3,9 @@
 <h2 align="center">Hello there! My name is Vicki Turner. 👋🤓😺</h2>
 
 
-### I'm a Junior Consultant with Arkahna
+### I'm a Consultant with Arkahna
 
-- 🔭 I work in Power Platform, GitHub Administration, and also developing broader skills in Data management and analytics
+- 🔭 I work in Data Analytics and Data Engineering, with the first part of my career focussing on Power Platform and GitHub Administration.
 - 😄 Pronouns: she/her
 
 ## Stats
