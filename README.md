@@ -13,12 +13,16 @@
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn ](https://www.linkedin.com/in/vickiturner/)
 
-### Languages and Tools:
+### Languages and Tools I've used:
 
 #### Data Analytics
-<a href="https://powerbi.microsoft.com/en-us/">
-    <img src="/img/power-bi.svg" alt="PowerBI" width="50" style="vertical-align: middle;">
+<a href="https://powerbi.microsoft.com/en-us/" style="display: inline-block; margin-right: 20px;">
+    <img src="/img/power-bi.svg" alt="PowerBI" width="30" style="vertical-align: middle;">
     Power BI
+</a>
+<a href="https://docs.tabulareditor.com/index.html?tabs=TE2" style="display: inline-block; margin-right: 20px;">
+    <img src="/img/tabular-editor.png" alt="Tabular Editor" width="30" style="vertical-align: middle;">
+    Tabular Editor
 </a>
 
 
