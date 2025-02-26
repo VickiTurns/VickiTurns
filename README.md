@@ -1,14 +1,14 @@
-
+<!-- Talk data to me gif -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=ecf05e47qgxe8bjw0v4wz5otdpzdp26tvy4dnsqsr1wc2noh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 
-
+<!-- 
 </p>
 <div id="badges">
     <a href="https://www.linkedin.com/in/vickiturner/">
         <img src="https://img.shields.io/badge/LinkedIn-blue"    alt="LinkedIn Badge"/>
     </a>    
-    </div>
+    </div> -->
 
 
 </p>
